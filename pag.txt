@@ -1,0 +1,13 @@
+SC product pag commands 
+1 pag table in sql data(any chanhe in pag record ) we hVE TO publish
+last updated column
+
+
+create update pag
+pahg tble - 3 things from table
+member upc (,)
+1- controlling item (east prefferedarray true , else false)
+2- 
+
+
+Prd pag uuid 
